@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "tzwg personal page"
+description              : "Tianze Wang's personal page"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianze Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/tianzew.jpg"
   bio              : "KTH Royal Institute of Technology"
   location         : "Stockholm, Sweden"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Jb43QIIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID"
   email            : "tianzew@kth.se"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
