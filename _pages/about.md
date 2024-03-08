@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1"> -->
 
 <!-- [Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID) -->
-[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=${{ secrets.SCHOLAR_ID }}&hl=en)
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
